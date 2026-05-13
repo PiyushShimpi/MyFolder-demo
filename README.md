@@ -1,4 +1,4 @@
 # MyFolder-demo
 This is my First time.
 <br>
-Author - Piyush D Shimpi
+Author - Piyush Shimpi
